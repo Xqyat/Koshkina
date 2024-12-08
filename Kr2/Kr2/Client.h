@@ -21,5 +21,5 @@ public:
 	Animal* getClientPet();
 
 	virtual void displayHuman();
-	virtual void takeAnimal(Animal* animal);
+	void takeAnimal(Animal* animal);
 };

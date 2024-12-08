@@ -17,5 +17,5 @@ public:
     void setEmployeePosition(string position);
     string getEmployeePosition();
 
-    void displayHuman();
+    virtual void displayHuman();
 };
