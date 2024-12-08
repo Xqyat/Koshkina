@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|solutionrelative:\u0414\u0437_18\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|solutionrelative:\u0414\u0437_18\\PCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|solutionrelative:\u0414\u0437_18\\PCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|solutionrelative:\u0414\u0437_18\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|solutionrelative:\u0414\u0437_18\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{951383A2-23A4-46D1-A04E-996C8305A9DE}|\u0414\u0437_18\\\u0414\u0437_18.vcxproj|solutionrelative:\u0414\u0437_18\\PCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PCar.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.cpp",
               "RelativeDocumentMoniker": "\u0414\u0437_18\\PCar.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.cpp",
-              "RelativeToolTip": "\u0414\u0437_18\\PCar.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.cpp*",
+              "RelativeToolTip": "\u0414\u0437_18\\PCar.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-28T12:48:12.51Z"
+              "WhenOpened": "2024-11-28T12:48:12.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Car.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Car.cpp",
               "RelativeDocumentMoniker": "\u0414\u0437_18\\Car.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Car.cpp",
               "RelativeToolTip": "\u0414\u0437_18\\Car.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-28T12:46:38.091Z"
+              "WhenOpened": "2024-11-28T12:46:38.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Car.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Car.h",
               "RelativeDocumentMoniker": "\u0414\u0437_18\\Car.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Car.h",
               "RelativeToolTip": "\u0414\u0437_18\\Car.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-28T12:44:22.253Z"
+              "WhenOpened": "2024-11-28T12:44:22.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\Main.cpp",
               "RelativeDocumentMoniker": "\u0414\u0437_18\\Main.cpp",
@@ -83,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PCar.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_18\\\u0414\u0437_18\\PCar.h",
               "RelativeDocumentMoniker": "\u0414\u0437_18\\PCar.h",
