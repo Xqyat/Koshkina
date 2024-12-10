@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|solutionrelative:\u0414\u0437_21\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\Snack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|solutionrelative:\u0414\u0437_21\\Snack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\VendingMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|solutionrelative:\u0414\u0437_21\\VendingMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\Snack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44CCAAAF-97EA-47BF-8A0B-E3718904D63B}|\u0414\u0437_21\\\u0414\u0437_21.vcxproj|solutionrelative:\u0414\u0437_21\\Snack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 442,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snack.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\Snack.h",
+              "RelativeDocumentMoniker": "\u0414\u0437_21\\Snack.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\Snack.h",
+              "RelativeToolTip": "\u0414\u0437_21\\Snack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T11:50:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snack.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\Snack.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21\\Snack.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\Snack.cpp",
+              "RelativeToolTip": "\u0414\u0437_21\\Snack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T11:50:11.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendingMachine.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\VendingMachine.h",
+              "RelativeDocumentMoniker": "\u0414\u0437_21\\VendingMachine.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\VendingMachine.h",
+              "RelativeToolTip": "\u0414\u0437_21\\VendingMachine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T11:44:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendingMachine.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\VendingMachine.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21\\VendingMachine.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0437_21\\\u0414\u0437_21\\VendingMachine.cpp",
+              "RelativeToolTip": "\u0414\u0437_21\\VendingMachine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T11:44:17.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

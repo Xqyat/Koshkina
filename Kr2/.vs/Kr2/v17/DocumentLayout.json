@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|solutionrelative:Kr2\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\CliEmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|solutionrelative:Kr2\\CliEmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Bobr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|solutionrelative:Kr2\\Bobr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|solutionrelative:Kr2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DF7F241-1CF0-44E1-A8E0-2A4206FECFB1}|Kr2\\Kr2.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Animal.cpp",
+              "RelativeDocumentMoniker": "Kr2\\Animal.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Animal.cpp",
+              "RelativeToolTip": "Kr2\\Animal.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T12:31:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CliEmp.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\CliEmp.cpp",
+              "RelativeDocumentMoniker": "Kr2\\CliEmp.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\CliEmp.cpp",
+              "RelativeToolTip": "Kr2\\CliEmp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T12:07:08.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Main.cpp",
+              "RelativeDocumentMoniker": "Kr2\\Main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Main.cpp",
+              "RelativeToolTip": "Kr2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T08:14:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Cat.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Cat.h",
               "RelativeDocumentMoniker": "Kr2\\Cat.h",
@@ -38,25 +89,24 @@
               "RelativeToolTip": "Kr2\\Cat.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-08T07:58:38.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T07:58:38.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Bobr.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Bobr.h",
               "RelativeDocumentMoniker": "Kr2\\Bobr.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Bobr.h",
               "RelativeToolTip": "Kr2\\Bobr.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-08T07:55:49.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Animal.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Animal.h",
               "RelativeDocumentMoniker": "Kr2\\Animal.h",
@@ -64,12 +114,11 @@
               "RelativeToolTip": "Kr2\\Animal.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-08T07:55:48.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T07:55:48.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Dog.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Kr2\\Kr2\\Dog.h",
               "RelativeDocumentMoniker": "Kr2\\Dog.h",
@@ -77,8 +126,7 @@
               "RelativeToolTip": "Kr2\\Dog.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-08T07:47:07.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T07:47:07.181Z"
             }
           ]
         }
