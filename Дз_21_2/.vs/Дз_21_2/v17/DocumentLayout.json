@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\PCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\PCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\Truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\AnyCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\AnyCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\PCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\PCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\Truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\AnyCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35144037-AC68-4FCF-97D7-935F6C285025}|\u0414\u0437_21_2\\\u0414\u0437_21_2.vcxproj|solutionrelative:\u0414\u0437_21_2\\AnyCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 442,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Truck.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\Truck.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Truck.cpp",
+              "RelativeToolTip": "\u0414\u0437_21_2\\Truck.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T14:43:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PCar.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\PCar.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\PCar.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\PCar.cpp",
+              "RelativeToolTip": "\u0414\u0437_21_2\\PCar.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "OverriddenGroupName": "\u0414\u0437_21_2",
+              "WhenOpened": "2024-12-12T14:43:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Car.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\Car.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Car.cpp",
+              "RelativeToolTip": "\u0414\u0437_21_2\\Car.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T14:43:17.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnyCar.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\AnyCar.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\AnyCar.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\AnyCar.cpp",
+              "RelativeToolTip": "\u0414\u0437_21_2\\AnyCar.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T14:43:06.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnyCar.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\AnyCar.h",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\AnyCar.h",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\AnyCar.h",
+              "RelativeToolTip": "\u0414\u0437_21_2\\AnyCar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T14:42:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Truck.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Truck.h",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\Truck.h",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Truck.h",
+              "RelativeToolTip": "\u0414\u0437_21_2\\Truck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T14:41:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Car.h",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\Car.h",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Car.h",
+              "RelativeToolTip": "\u0414\u0437_21_2\\Car.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T14:41:33.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PCar.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\PCar.h",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\PCar.h",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\PCar.h",
+              "RelativeToolTip": "\u0414\u0437_21_2\\PCar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T14:39:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Main.cpp",
+              "RelativeDocumentMoniker": "\u0414\u0437_21_2\\Main.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Documents\\Koshkina\\Koshkina\\\u0414\u0437_21_2\\\u0414\u0437_21_2\\Main.cpp",
+              "RelativeToolTip": "\u0414\u0437_21_2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T14:37:59.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

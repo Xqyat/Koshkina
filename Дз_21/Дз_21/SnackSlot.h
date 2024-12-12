@@ -7,15 +7,20 @@ using namespace std;
 class SnackSlot
 {
 private:
-	int _slotsQuantity;
+	int _snacksQuantity;
+	Snack** _snacks;
 
 public:
 	~SnackSlot();
 	SnackSlot();
-	SnackSlot(int slotsQuantity);
+	SnackSlot(int snackQuantity);
 
-	void getSlotsQuantity();
-	int setSlotsQuantity();
+	int getSnacksQuantity();
+	void setSnacksQuantity(int quantity);
+	Snack** getSnacks();
 
-	void addSnack(string snackName);
+	void addSnack(Snack* snack);
+	void delSnack(Snack* snack);
+	void clearSlot();
+	bool checkEmpty();
 };

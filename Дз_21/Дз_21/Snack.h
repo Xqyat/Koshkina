@@ -6,17 +6,18 @@ using namespace std;
 class Snack
 {
 private:
-	string _snackName;
+	string _name;
 	int _price;
 public:
 	~Snack();
 	Snack();
-	Snack(string snackName, int price);
+	Snack(string name, int price);
+	Snack(string name);
 
-	void getSnackName();
-	string setSnackName();
-	void getPrice();
-	int setPrice();
+	string getName();
+	void setName(string name);
+	int getPrice();
+	void setPrice(int price);
 
-	int changePrice(string snackName);
+	void changePrice();
 };

@@ -1,18 +1,32 @@
 #pragma once
+#include <iostream>
+#include "SnackSlot.h"
+#include "Snack.h"
 
 class VendingMachine
 {
 private:
-	int _slotCount;
-
+	int _slotsCount;
+	int _money;
+	SnackSlot** _snackSlots;
+	
 public:
 	~VendingMachine();
 	VendingMachine();
-	VendingMachine(int slotCount);
+	VendingMachine(int slotsCount);
+	
+	int getSlotsCount();
+	int getMoney();
+	void setSlotsCount(int count);
+	SnackSlot** getSnackSlot();
 
-	void getSlotCount();
-	int setSlotCount();
+	void addSlot(SnackSlot* snackSlots);
+	string getEmptySlotsCount();
+	void delSlot(SnackSlot* snackSlots);
+	void clearSlots();
 
-	void addSlot(int slot);
-	int getEmptySlotsCount();
+	void depositMoney(int money);
+	void withdrawMoney();
+	void buySnack(SnackSlot* slot);
+	void refund(int money);
 };
